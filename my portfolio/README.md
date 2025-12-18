@@ -17,4 +17,5 @@ HTML, CSS, JavaScript
 
 
 ## Live Demo
-(Add Netlify / GitHub Pages link)
+
+https://vaishnaviadixit.github.io/HTML-CSS-JS/my%20portfolio/index.html
