@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Student–Teacher Appointment Booking</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+
+<div class="container">
+<h1>Student–Teacher Appointment Booking</h1>
+
+
+<form id="bookingForm">
+<input type="text" id="studentName" placeholder="Student Name" required />
+
+
+<select id="teacherName" required>
+<option value="">Select Teacher</option>
+<option>Dr. Sharma</option>
+<option>Prof. Mehta</option>
+<option>Ms. Anjali</option>
+</select>
+
+
+<input type="date" id="date" required />
+<input type="time" id="time" required />
+
+
+<button type="submit">Book Appointment</button>
+</form>
+
+
+<h2>Booked Appointments</h2>
+<ul id="appointmentList"></ul>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>

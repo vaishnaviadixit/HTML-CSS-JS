@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Vaishnavi | Portfolio</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="hero">
+<h1>Vaishnavi</h1>
+<p>MCA Graduate</p>
+<button onclick="scrollToSection('contact')">Contact Me</button>
+</header>
+
+<nav class="navbar">
+<a href="#about">About</a>
+<a href="#skills">Skills</a>
+<a href="#projects">Projects</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about" class="card">
+<h2>About Me</h2>
+<p>
+I am an MCA graduate passionate about web development and creating
+clean, responsive user interfaces using modern web technologies.
+</p>
+</section>
+
+<section id="skills" class="card">
+<h2>Skills</h2>
+<div class="skills-grid">
+<span>HTML</span>
+<span>CSS</span>
+<span>JavaScript</span>
+<span>Python</span>
+<span>Django</span>
+<span>GitHub</span>
+</div>
+</section>
+
+<section id="projects" class="card">
+<h2>Projects</h2>
+<div class="projects-grid">
+<div class="project">
+<h3>To‑Do List App</h3>
+<p>Task manager with add, delete and filter functionality.</p>
+</div>
+<div class="project">
+<h3>Student–Teacher Booking</h3>
+<p>Appointment booking system with validation.</p>
+</div>
+<div class="project">
+<h3>Catering Reservation</h3>
+<p>Online catering booking and order management.</p>
+</div>
+</div>
+</section>
+
+
+<section id="contact" class="card">
+<h2>Contact</h2>
+<form id="contactForm">
+<input type="text" placeholder="Your Name" required />
+<input type="email" placeholder="Your Email" required />
+<textarea placeholder="Message" required></textarea>
+<button type="submit">Send Message</button>
+</form>
+<p id="successMsg"></p>
+</section>
+
+
+<footer>
+<p>© 2025 Vaishnavi</p>
+</footer>
+
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Catering Reservation & Ordering System</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+
+<div class="container">
+<h1>Catering Reservation & Ordering</h1>
+
+
+<form id="orderForm">
+<input type="text" id="customerName" placeholder="Your Name" required />
+<input type="email" id="customerEmail" placeholder="Email" required />
+
+
+<input type="date" id="eventDate" required />
+<input type="number" id="guestCount" placeholder="Number of Guests" required />
+
+
+<select id="menuType" required>
+<option value="">Select Menu Type</option>
+<option>Vegetarian</option>
+<option>Non-Vegetarian</option>
+<option>Mixed</option>
+</select>
+
+
+<button type="submit">Place Reservation</button>
+</form>
+
+
+<h2>Reservations</h2>
+<ul id="reservationList"></ul>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
