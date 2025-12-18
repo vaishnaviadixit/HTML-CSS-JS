@@ -18,4 +18,5 @@ HTML, CSS, JavaScript
 
 
 ## Live Demo
-(Add Netlify / GitHub Pages link)
+
+https://vaishnaviadixit.github.io/HTML-CSS-JS/Catering%20Reservation%20and%20Ordering%20System/index.html
