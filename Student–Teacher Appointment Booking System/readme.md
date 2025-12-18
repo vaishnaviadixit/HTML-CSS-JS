@@ -4,7 +4,6 @@
 ## Description
 A web-based system that allows students to book appointments with teachers.
 
-
 ## Features
 - Appointment booking form
 - Input validation
@@ -18,4 +17,5 @@ HTML, CSS, JavaScript
 
 
 ## Live Demo
-(Add deployed link here)
+
+https://vaishnaviadixit.github.io/HTML-CSS-JS/Student%E2%80%93Teacher%20Appointment%20Booking%20System/index.html
