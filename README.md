@@ -10,7 +10,7 @@ A web-based system for booking catering services with details of event, guest co
 ## Technologies
 HTML, CSS, JavaScript
 ## Live Demo
-(Add Netlify / GitHub Pages link)
+https://vaishnaviadixit.github.io/HTML-CSS-JS/Catering%20Reservation%20and%20Ordering%20System/index.html
 
 
 
@@ -25,7 +25,7 @@ HTML, CSS, JavaScript
 - Smooth scrolling
 - Contact form interaction
 ## Live Demo
-(Add Netlify / GitHub Pages link)
+https://vaishnaviadixit.github.io/HTML-CSS-JS/my%20portfolio/index.html
 
 
 
@@ -41,7 +41,7 @@ A web-based system that allows students to book appointments with teachers.
 ## Technologies
 HTML, CSS, JavaScript
 ## Live Demo
-(Add deployed link here)
+https://vaishnaviadixit.github.io/HTML-CSS-JS/Student%E2%80%93Teacher%20Appointment%20Booking%20System/index.html
 
 
 
@@ -57,4 +57,4 @@ A modern To-Do List application to manage daily tasks.
 ## Technologies
 HTML, CSS, JavaScript
 ## Live Demo
-(Add Netlify / GitHub Pages link)
+https://vaishnaviadixit.github.io/HTML-CSS-JS/To%20do%20list/index.html
