@@ -14,4 +14,5 @@ A modern To-Do List application to manage daily tasks.
 HTML, CSS, JavaScript
 
 ## Live Demo
-(Add Netlify / GitHub Pages link)
+https://vaishnaviadixit.github.io/HTML-CSS-JS/To%20do%20list/index.html
+
